@@ -62,7 +62,7 @@ def generate(path: Path, count_to: int = COUNT_TO) -> None:
                 spacer = ""
             stream.write(f" {' '.join(number).capitalize()}{spacer}.")
 
-        stream.write(" Ready or not, here I come.")
+        stream.write(" Ready or not, here I come!")
 
 
 def count(stop_at: Optional[int] = None) -> Iterator[List[str]]:
