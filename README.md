@@ -4,3 +4,6 @@ A centralized repository for all my [NaNoGenMo 2019](https://github.com/NaNoGenM
 
  * [Ready or Not](ready-or-not/README.md): A countdown to adventure
     * [Example](examples/ready-or-not.txt)
+ * [Nano](nano/README.md): A nanonanogenmo entry
+    * [Example](examples/nano.txt)
+    * [Example](examples/waves.txt)
